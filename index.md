@@ -33,7 +33,8 @@ Optional: [Download Climate Data (NCEI)](Download_Climate_Data_NCEI.html)
 ---
 ## GBIF Species Migration Project: Orca (2025)
 
-[My Orca Migration Notebookk](gbif-data-download%20(2).ipynb)
+[Click to view my Orca Migration Notebook](https://github.com/aupl8245-cmyk/aupl8245-cmyk.github.io/blob/main/gbif-data-download%20(2).ipynb)
+
 
 For this project, I downloaded 2025 Orca (Orcinus orca) sightings from GBIF and explored where they were showing up globally. I mapped the locations, looked at which countries had the most observations, and wrote a short reflection on the patterns I noticed.
 
